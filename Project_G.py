@@ -8,7 +8,7 @@ for i in range(number_of_cells):
     cell = int(input(f"Enter the cell number {i+1}: "))
     numbers.append(cell)
 
-print(f" this is your list: {numbers}")
+print(f"this is your list: {numbers}")
 
 for i in range(number_of_cells - 1):
     min_pos = i
