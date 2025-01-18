@@ -1,1 +1,1 @@
-#### Python projects that do not use OOP, libraries, or frameworks, and are graduated in difficulty
+#### Python projects that do not use OOP, libraries, or frameworks, and are graduated in difficulty.
